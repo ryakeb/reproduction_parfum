@@ -1,0 +1,63 @@
+body {
+    background-color:rgb(243, 234, 228);
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.billboard {
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    margin-top: 125px;
+    border-radius: 5%;
+}
+img {
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+}
+.descr {
+    display: flex;
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.gab {
+    padding-left: 30px;
+}
+.perf {
+    color: grey;
+    padding-top: 10px;
+    font-size: smaller;
+}
+.perf2 {
+    color:grey;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+strong {
+    font-size: 2em;
+    color: darkgreen;
+
+}
+span {
+    color: grey;
+}
+.but {
+    margin-top: 25px;
+    background-color: darkgreen;
+    width: 170px;
+    height: 35px;
+    border-radius: 12%;
+    color: white;
+    margin-left: 50px;
+}
+.cart {
+    margin-left: 45px;
+    padding-top: 8px;
+}
